@@ -1,0 +1,15 @@
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\bin\Debug\net6.0\atividadee2.exe
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\bin\Debug\net6.0\atividadee2.deps.json
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\bin\Debug\net6.0\atividadee2.runtimeconfig.json
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\bin\Debug\net6.0\atividadee2.dll
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\bin\Debug\net6.0\atividadee2.pdb
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\obj\Debug\net6.0\atividadee2.csproj.AssemblyReference.cache
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\obj\Debug\net6.0\atividadee2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\obj\Debug\net6.0\atividadee2.AssemblyInfoInputs.cache
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\obj\Debug\net6.0\atividadee2.AssemblyInfo.cs
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\obj\Debug\net6.0\atividadee2.csproj.CoreCompileInputs.cache
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\obj\Debug\net6.0\atividadee2.dll
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\obj\Debug\net6.0\refint\atividadee2.dll
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\obj\Debug\net6.0\atividadee2.pdb
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\obj\Debug\net6.0\atividadee2.genruntimeconfig.cache
+C:\Users\2022102020078\source\repos\atividadee2\atividadee2\obj\Debug\net6.0\ref\atividadee2.dll
